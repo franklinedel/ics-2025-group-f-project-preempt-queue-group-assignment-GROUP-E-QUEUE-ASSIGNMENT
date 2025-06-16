@@ -4,7 +4,7 @@
 
 ## Group ASSIGNMENT
 
-This assignment is designed to be quite a fun and an engaging challenge that requires teamwork, communication, and collaboration. You will work together to build an advanced print queue simulator that models a real-world printing system with multiple users, priorities, aging, and concurrency.
+This assignment is designed to be quite a fun and engaging challenge that requires teamwork, communication, and collaboration. You will work together to build an advanced print queue simulator that models a real-world printing system with multiple users, priorities, aging, and concurrency.
 
 This project is perfect for groups of **5 to 6 members**. Each member will take ownership of a specific module or feature, and together you will integrate your parts into a fully functioning system.
 
