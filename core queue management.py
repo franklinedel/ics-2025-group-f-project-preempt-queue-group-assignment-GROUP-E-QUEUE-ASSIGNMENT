@@ -69,3 +69,4 @@ if __name__ == "__main__":
     pq.enqueue_job("frank", "jobF", 2)
 
     pq.show_status()
+    print()
